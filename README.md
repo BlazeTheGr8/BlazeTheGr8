@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About Me
-I am an aspiring software developer with a special interest in cyber
+My name is Adam Castle and I am an aspiring software developer with a special interest in cyber
 security and AI. I am proficient in HTML5, CSS , JavaScript as well as
 troubleshooting AWS cloud services including the management of
 Account Security and Billing. In my last role at AWS I held positions of
