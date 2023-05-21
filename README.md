@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+## About Me
 I am an aspiring software developer with a special interest in cyber
 security and AI. I am proficient in HTML5, CSS , JavaScript as well as
 troubleshooting AWS cloud services including the management of
