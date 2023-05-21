@@ -14,10 +14,10 @@ broaden my skill set where upon completion I will be an entry-level
 FullStack Web Developer.
 
 ## Projects
-- Digital Resume
-\n Repository Link: https://github.com/BlazeTheGr8/ADACAS020_FTC2301_Group-Naeem_AdamCastle_ITW09.git
+- Digital Resume <br/>
+Repository Link: https://github.com/BlazeTheGr8/ADACAS020_FTC2301_Group-Naeem_AdamCastle_ITW09.git
 
-- Interactive Book Site 
+- Interactive Book Site <br/>
 Repository Link: https://github.com/BlazeTheGr8/ADACAS020_FTC2301_Group-Naeem_AdamCastle_IWA19.git
 <!--
 **BlazeTheGr8/BlazeTheGr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
