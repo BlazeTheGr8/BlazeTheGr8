@@ -15,17 +15,19 @@ FullStack Web Developer.
 
 ## Projects
 - Digital Resume <br/>
-Repository Link: https://github.com/BlazeTheGr8/ADACAS020_FTC2301_Group-Naeem_AdamCastle_ITW09.git
+Repository Link: https://github.com/BlazeTheGr8/ADACAS020_FTC2301_Group-Naeem_AdamCastle_ITW09.git <br/>
+Live Preview: https://superb-granita-20b81a.netlify.app/
 
 - Interactive Book Site <br/>
-Repository Link: https://github.com/BlazeTheGr8/ADACAS020_FTC2301_Group-Naeem_AdamCastle_IWA19.git
+Repository Link: https://github.com/BlazeTheGr8/ADACAS020_FTC2301_Group-Naeem_AdamCastle_IWA19.git <br/>
+Live Preview: https://heroic-starship-5a6556.netlify.app/
 <!--
 **BlazeTheGr8/BlazeTheGr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on improving my web development skills
+- 🌱 I’m currently learning React, WordPress and SEO
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
