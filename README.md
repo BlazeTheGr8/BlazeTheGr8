@@ -2,7 +2,7 @@
 
 ## About Me
 My name is Adam Castle and I am an aspiring software developer with a special interest in cyber
-security and AI. I am proficient in HTML5, CSS , JavaScript as well as
+security and AI. I am proficient in HTML5, CSS , JavaScript, React.js as well as
 troubleshooting AWS cloud services including the management of
 Account Security and Billing. In my last role at AWS I held positions of
 leadership and exceeded the quality bar, displaying that I not only bring a
@@ -20,7 +20,10 @@ Live Preview: https://superb-granita-20b81a.netlify.app/
 
 - Interactive Book Site <br/>
 Repository Link: https://github.com/BlazeTheGr8/ADACAS020_FTC2301_Group-Naeem_AdamCastle_IWA19.git <br/>
-Live Preview: https://heroic-starship-5a6556.netlify.app/
+Live Preview: https://heroic-starship-5a6556.netlify.app/ <br/>
+
+- 🔭 I’m currently working on improving my web development skills
+- 🌱 I’m currently learning React, WordPress and SEO
 <!--
 **BlazeTheGr8/BlazeTheGr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
