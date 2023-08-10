@@ -23,7 +23,7 @@ Repository Link: https://github.com/BlazeTheGr8/ADACAS020_FTC2301_Group-Naeem_Ad
 Live Preview: https://heroic-starship-5a6556.netlify.app/ <br/>
 
 - 🔭 I’m currently working on improving my web development skills
-- 🌱 I’m currently learning React, WordPress and SEO
+- 🌱 I’m currently learning ReactJS, WordPress and SEO
 <!--
 **BlazeTheGr8/BlazeTheGr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
