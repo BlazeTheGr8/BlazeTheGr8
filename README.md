@@ -22,6 +22,10 @@ Live Preview: https://superb-granita-20b81a.netlify.app/
 Repository Link: https://github.com/BlazeTheGr8/ADACAS020_FTC2301_Group-Naeem_AdamCastle_IWA19.git <br/>
 Live Preview: https://heroic-starship-5a6556.netlify.app/ <br/>
 
+- PodCast App <br/>
+Repository Link: https://github.com/BlazeTheGr8/ADACAS020_FTC2301_Group-Naeem_AdamCastle_PodcastApp.git <br/>
+Live Preview: https://podcastle.netlify.app/ <br/>
+
 - 🔭 I’m currently working on improving my web development skills
 - 🌱 I’m currently learning ReactJS, WordPress and SEO
 <!--
